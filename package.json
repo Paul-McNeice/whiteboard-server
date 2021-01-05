@@ -1,0 +1,22 @@
+{
+  "name": "whiteboard-server",
+  "version": "1.0.0",
+  "description": "Whiteboard server for handling client sessions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paul-McNeice/whiteboard-server.git"
+  },
+  "author": "Paul McNeice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paul-McNeice/whiteboard-server/issues"
+  },
+  "homepage": "https://github.com/Paul-McNeice/whiteboard-server#readme",
+  "dependencies": {
+    "ws": "^7.4.2"
+  }
+}
