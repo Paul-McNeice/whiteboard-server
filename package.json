@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Paul-McNeice/whiteboard-server#readme",
   "dependencies": {
+    "mongodb": "^3.6.3",
     "ws": "^7.4.2"
   }
 }
